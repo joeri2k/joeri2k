@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Visual studio&color=blue&style=for-the-badge&logo=visualstudio&logoColor=whitesmoke" alt="visual studio"></a>
 
 
 
