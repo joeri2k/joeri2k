@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2>👋🏼 I'm Joe</h2>
 
-- 🌱 I’m currently learning React Native and Django
+- 🌱 I’m currently learning Node.js MongoDB
 - 🚀 I’m always open to new learning experiences
 - 🧗‍♂️ I enjoy all outdoor activities
 - 🤸‍♂️ And yes... I can Backflip  
