@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 - 🚀 I’m always open to new learning experiences
 - 🧗‍♂️ I enjoy all outdoor activities
 - 🤸‍♂️ And yes... I can Backflip  
+                                                                                      
 
-
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                       
-
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Contact me</h2>
 <p>
   <a href="mailto:joerizk2@hotmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joe-rizk-45b6651a3/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
